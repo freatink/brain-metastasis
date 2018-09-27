@@ -1,0 +1,13 @@
+﻿id,The index of the patients.
+age,The age of the patients.
+gender,"1 represents male, 2 represents female."
+primary_site,"the primary lesion of the tumor：1: 'lung', 2: 'breast', 3: 'kidney', 4: 'rectum', 5: 'colon', 6: 'lymphoma', 7: 'others'"
+tumor_amount_supratentorial,The amount of tumors in the supratentorial region.
+tumor_amount_subtentorial,The amount of tumors in the subtentorial region.
+duration,The duration between the primary lesion and the metastasis in months.
+KPS,"1 represents KPS score ≥70, 0 reprensents KPS ＜70."
+survival,"1 represents alive, 2 represents dead, 3 represents loss to follow-up"
+primary tumor control,"1 represents primary tumor is controlled well, 2 represents not."
+treatment,"COP means conplete tumor resection, SRS means stereotactiv radiotherapy, CT means chemotherapy, POP means partial tumor resection, N means there is no treatment, WBRT means whole brain radiotherapy"
+size,the tumor size: 1 represents diameter<3cm，2 represents ≥3cm
+metastasis other than CNS,"1 represents yes, 2 represents no"
